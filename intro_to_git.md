@@ -13,7 +13,7 @@ Please don't post solutions. Helpful examples of how to code exploitation relate
     </li>
     <li>go into the directory and clone this repo to download a working local copy</li>
         &nbsp&nbsp<code>cd training</code></br>
-        &nbsp&nbsp<code>git clone https://github.com/bitsforeveryone/training</code>
+        &nbsp&nbsp<code>git clone https://github.com/0x0Titan/Training</code>
     </li>
 </ol>
 <h3>pull updated content from remote repo</h3>
